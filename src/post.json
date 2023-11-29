@@ -1,17 +1,20 @@
 [
   {
-    "title": "Aplikasi  Game terbaik",
+    "title": " Game terbaik",
     "tags": ["mlbb", "pubg"],
-    "date": "2023-11-18"
+    "date": "2023-11-18",
+    "isNew": true
   },
   {
-    "title": "Aplikasi  Sosial media terbaik",
+    "title": "Sosial media terbaik",
     "tags": ["fb", "instagram", "twitter"],
-    "date": "2023-11-18"
+    "date": "2023-11-18",
+    "isNew": false
   },
   {
-    "title": "Aplikasi Marketplace terbaik",
+    "title": "Marketplace terbaik",
     "tags": ["shopee", "bukalapak", "tokopedia"],
-    "date": "2023-11-18"
+    "date": "2023-11-18",
+    "isNew": false
   }
 ]
